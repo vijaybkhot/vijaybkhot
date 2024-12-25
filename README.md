@@ -30,5 +30,5 @@ Driven by a passion for coding and creating innovative solutions, I made the lea
 - **Master of Technology (M.Tech) in Construction and Management**  
   *College of Engineering Pune, India* (2013–2015)  
 
-- **Bachelor of Engineering (B.E.) in Civil Engineering**  
+- **Bachelor of Technology (B.Tech.) in Civil Engineering**  
   *Dr. Babasaheb Ambedkar Marathwada University, India* (2008–2012)  
