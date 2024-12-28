@@ -22,9 +22,13 @@ Hi there! I’m Vijay Khot, originally from Kolhapur, India. My journey began in
 
 Driven by a passion for problem-solving and innovation, I transitioned to computer science in August 2023. What started as writing less than 100 lines of code in one language has evolved into contributing over 20,000 lines of code in team projects across multiple languages, frameworks, and technologies. This transformation has been immensely rewarding, though I believe my learning journey is just beginning.
 
-I specialize in JavaScript, Node.js, and Express for full-stack web development. Over the past year, I’ve developed or contributed to four fully functional, market-ready websites, creating RESTful APIs, AJAX functions, routing, and database models using SQL and MongoDB. One of my key projects involved working in an agile team, leveraging Scrum and Kanban methodologies to deliver the project in four sprints. This experience honed my skills in collaboration, continuous testing, and integration using Git, GitHub, and GitHub Actions.
+I specialize in JavaScript, Node.js, and Express for full-stack web development. Over the past year, I’ve developed or contributed to four fully functional, market-ready websites, creating RESTful APIs, AJAX functions, routing, and database models using SQL and MongoDB.
 
-I’m also passionate about UI/UX design, having developed projects through iterative low-fi, medium-fi, and high-fi prototypes. Using usability testing and HCI principles, I refined designs at each stage to create user-centered solutions.
+Working in these projects, I have honed my skills in collaboration, continuous testing, and integration using Git, GitHub, and GitHub Actions.
+
+I have experience working on projects in Agile teams, utilizing Scrum and Kanban frameworks with iterations and sprints. As a developer, I have collaborated closely with team members, including Scrum Masters and Product Owners, to ensure smooth project delivery. This experience has equipped me with a strong understanding of Agile principles, and I am comfortable working in Agile environments using Scrum or Kanban frameworks. Additionally, I am confident in my ability to adapt quickly to other frameworks as needed. 
+
+I’m also passionate about UI/UX design, having worked on a project through iterative low-fi, medium-fi, and high-fi prototypes. Using usability testing and HCI principles, I refined designs at each stage to create user-centered solutions for final product.
 
 What defines me most is my love for problem-solving. Once I undertake a challenge, I persist until I find a solution. I’m resilient, a team player, and highly motivated to learn. I pride myself on being a fast learner, always eager to expand my knowledge and discover new ways to solve problems through coding.
 ---
