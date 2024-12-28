@@ -30,7 +30,7 @@ I have experience working on projects in Agile teams, utilizing Scrum and Kanban
 
 I’m also passionate about UI/UX design, having worked on a project through iterative low-fi, medium-fi, and high-fi prototypes. Using usability testing and HCI principles, I refined designs at each stage to create user-centered solutions for final product.
 
-What defines me most is my love for problem-solving. Once I undertake a challenge, I persist until I find a solution. I’m resilient, a team player, and highly motivated to learn. I pride myself on being a fast learner, always eager to expand my knowledge and discover new ways to solve problems through coding.
+What defines me most is my love for problem-solving. Once I tackle a challenge, I persist until I find a solution. I’m resilient, a team player, and highly motivated to learn. I pride myself on being a fast learner, always eager to expand my knowledge and discover new ways to solve problems through coding. My greatest strength lies in my commitment to continuous improvement and lifelong learning. I am constantly seeking opportunities to enhance my skills, refine my approach, and adapt to new challenges, ensuring I deliver the best results in every endeavor.
 ---
 
 ## Education 🎓  
