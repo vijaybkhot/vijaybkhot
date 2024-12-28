@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 -->
 ## About Me 👨‍💻  
 
-Hi there! I’m **Vijay Khot**, originally from Kolhapur, India. My professional journey began in civil engineering, where I earned a strong academic foundation through a Bachelor’s and Master’s degree in the field. Over the years, I’ve contributed to impactful projects in the construction industry, including leading teams to execute government initiatives like the construction of **604 low-cost housing units** in Ichalkaranji, India.  
+About Me
 
-Driven by a passion for coding and creating innovative solutions, I made the leap to computer science and began my journey as a graduate student in August 2023. This transition has been both challenging and incredibly rewarding, allowing me to grow, learn, and evolve as a budding software engineer.  
+Hi there! I’m Vijay Khot, originally from Kolhapur, India. My journey began in civil engineering, where I built a solid academic foundation with a Bachelor’s and Master’s degree and contributed to impactful projects like leading a team to construct 604 low-cost housing units in Ichalkaranji, India.
 
+Driven by a passion for problem-solving and innovation, I transitioned to computer science in August 2023. What started as writing less than 100 lines of code in one language has evolved into contributing over 20,000 lines of code in team projects across multiple languages, frameworks, and technologies. This transformation has been immensely rewarding, though I believe my learning journey is just beginning.
+
+I specialize in JavaScript, Node.js, and Express for full-stack web development. Over the past year, I’ve developed or contributed to four fully functional, market-ready websites, creating RESTful APIs, AJAX functions, routing, and database models using SQL and MongoDB. One of my key projects involved working in an agile team, leveraging Scrum and Kanban methodologies to deliver the project in four sprints. This experience honed my skills in collaboration, continuous testing, and integration using Git, GitHub, and GitHub Actions.
+
+I’m also passionate about UI/UX design, having developed projects through iterative low-fi, medium-fi, and high-fi prototypes. Using usability testing and HCI principles, I refined designs at each stage to create user-centered solutions.
+
+What defines me most is my love for problem-solving. Once I undertake a challenge, I persist until I find a solution. I’m resilient, a team player, and highly motivated to learn. I pride myself on being a fast learner, always eager to expand my knowledge and discover new ways to solve problems through coding.
 ---
 
 ## Education 🎓  
