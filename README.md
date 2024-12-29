@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ## About Me 👨‍💻  
 
-About Me
-
 Hi there! I’m Vijay Khot, originally from Kolhapur, India. My journey began in civil engineering, where I built a solid academic foundation with a Bachelor’s and Master’s degree and contributed to impactful projects like leading a team to construct 604 low-cost housing units in Ichalkaranji, India.
 
 Driven by a passion for problem-solving and innovation, I transitioned to computer science in August 2023. What started as writing less than 100 lines of code in one language has evolved into contributing over 20,000 lines of code in team projects across multiple languages, frameworks, and technologies. This transformation has been immensely rewarding, though I believe my learning journey is just beginning.
