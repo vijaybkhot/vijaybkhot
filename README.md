@@ -20,7 +20,7 @@ I’m Vijay Khot, originally from Kolhapur, India. My journey began in civil eng
 
 Driven by a passion for problem-solving and innovation, I transitioned to computer science in August 2023. What started as writing less than 100 lines of code in one language has evolved into contributing over 20,000 lines of code in team projects across multiple languages, frameworks, and technologies. This transformation has been immensely rewarding, though I believe my learning journey is just beginning.
 
-I specialize in JavaScript, Node.js, and Express for full-stack web development. Over the past year, I’ve developed or contributed to four fully functional, market-ready websites, creating RESTful APIs, AJAX functions, routing, and database models using SQL and MongoDB.
+I specialize in JavaScript, React, Next.js, Node.js, and Express for full-stack web development. Over the past year, I’ve developed or contributed to four fully functional, market-ready websites, creating RESTful APIs, AJAX functions, routing, and database models using SQL and MongoDB.
 
 Working in these projects, I have honed my skills in collaboration, continuous testing, and integration using Git, GitHub, and GitHub Actions.
 
