@@ -1,38 +1,42 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vijay Khot
+==================================================================================================================================
 
-<!--
-**vijaybkhot/vijaybkhot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer
+-------------
 
-Here are some ideas to get you started:
+I am a Computer Science graduate student at Stevens Institute of Technology, transitioning from civil engineering to technology with a passion for software development, web development, and user-centered design. With hands-on experience in full-stack development, I’ve built dynamic applications like Natours, ServiceEasy, and Campus Pulse using Node.js, Express.js, MongoDB, React, and Leaflet.js. My expertise includes RESTful APIs, JWT authentication, Stripe payments, and interactive UI/UX design. I thrive in Agile teams, bringing strong problem-solving, leadership, and collaboration skills. Committed to continuous learning, I aim to specialize in UI/UX and web development, integrating AI to create impactful, user-centric solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## About Me 👨‍💻  
+* 🌍  I'm based in New York
+* ✉️  You can contact me at [vkhot@stevens.edu](mailto:vkhot@stevens.edu)
+* 🧠  I'm learning React, Redis, GraphQL, Redux, Context API, React Router
+* 🤝  I'm open to collaborating on Web and UI UX Projects
 
-I am a passionate and dedicated Computer Science graduate student at Stevens Institute of Technology with a strong foundation in software development, web development, and user-centered design. Transitioning from a background in civil engineering to technology, I bring a unique perspective to problem-solving by combining analytical thinking with creativity to develop innovative solutions.
+### Skills
 
-With hands-on experience in full-stack web development, I have successfully delivered projects that integrate modern technologies like Node.js, Express.js, MongoDB, React, and Leaflet.js. My projects—Natours, ServiceEasy, and Campus Pulse—highlight my expertise in building dynamic, scalable applications with features such as RESTful APIs, secure authentication (JWT), payment integration (Stripe), and interactive front-end design using HTML, CSS, and JavaScript.
 
-I thrive in collaborative Agile environments, contributing effectively to cross-functional teams. My leadership and communication skills are evident in my role as a team coordinator during academic projects. I am committed to continuous learning, advancing my knowledge in machine learning, mathematical foundations, and AI through coursework and self-driven projects.
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-I am driven by a passion for creating impactful, user-centric applications that address real-world problems while enhancing user experiences. My long-term goal is to specialize in UI/UX design and web development, leveraging cutting-edge technologies like AI to craft intuitive, meaningful solutions. I am excited to collaborate with innovative teams and contribute to projects that make a tangible impact.
 
----
+### Socials
 
-## Education 🎓  
+<p align="left"> <a href="https://discord.com/users/vijaysinh.khot" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/vijaybkhot" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vijay-khot" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@vijaysinhkhot2871" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
-- **Master of Science (M.S.) in Computer Science**  
-  *Stevens Institute of Technology, Hoboken, NJ, USA* (August 2023 – May 2025)  
+### Badges
 
-- **Master of Technology (M.Tech) in Construction and Management**  
-  *College of Engineering Pune, India* (2013–2015)  
+<b>My GitHub Stats</b>
 
-- **Bachelor of Technology (B.Tech.) in Civil Engineering**  
-  *Dr. Babasaheb Ambedkar Marathwada University, India* (2008–2012)  
+<a href="http://www.github.com/vijaybkhot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaybkhot&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/vijaybkhot"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vijaybkhot&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/vijaybkhot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaybkhot&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/vijaybkhot/ServiceEasy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijaybkhot&repo=ServiceEasy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vijaybkhot/Campus-Pulse" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijaybkhot&repo=Campus-Pulse&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/vijaybkhot/natours" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijaybkhot&repo=natours&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
