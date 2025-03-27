@@ -8,7 +8,7 @@ I am a Computer Science graduate student at Stevens Institute of Technology, tra
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [vkhot@stevens.edu](mailto:vkhot@stevens.edu)
-* 🧠  I'm learning React, Redis, GraphQL, Redux, Context API, React Router
+* 🧠  I'm learning React, Redis, GraphQL, Redux, Context API, React Router, Next.JS
 * 🤝  I'm open to collaborating on Web and UI UX Projects
 
 ### Skills
