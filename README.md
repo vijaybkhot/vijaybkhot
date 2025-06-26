@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vijay Khot
 ==================================================================================================================================
 
-Web Developer
+Fullstack Developer
 -------------
 
 I am a Computer Science graduate student at Stevens Institute of Technology, transitioning from civil engineering to technology with a passion for software development, web development, and user-centered design. With hands-on experience in full-stack development, I’ve built dynamic applications like Natours, ServiceEasy, and Campus Pulse using Node.js, Express.js, MongoDB, React, and Leaflet.js. My expertise includes RESTful APIs, JWT authentication, Stripe payments, and interactive UI/UX design. I thrive in Agile teams, bringing strong problem-solving, leadership, and collaboration skills. Committed to continuous learning, I aim to specialize in UI/UX and web development, integrating AI to create impactful, user-centric solutions.
