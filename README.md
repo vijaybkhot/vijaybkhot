@@ -93,7 +93,7 @@ Stevens Institute of Technology, Hoboken, NJ
   <a href="https://github.com/vijaybkhot" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://leetcode.com/vijaykhot" target="_blank">
+  <a href="https://leetcode.com/u/vijay_khot" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://www.youtube.com/@vijaysinhkhot2871" target="_blank">
