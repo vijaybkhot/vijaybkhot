@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science graduate student at Stevens Institute of Technology, transitioning from civil engineering to backend systems development with a passion for web infrastructure, performance optimization, and real-time applications.
+I'm a Computer Science graduate, transitioning from civil engineering to backend systems development with a passion for web infrastructure, performance optimization, and real-time applications.
 
 - 💡 I’ve built production-ready platforms like **eVoltzo**, **NexTune**, **Campus Pulse**, and **ServiceEasy**.
 - ⚡ Specializing in **GraphQL backends**, **Stripe payment workflows**, **SSR caching**, and **real-time booking engines**.
