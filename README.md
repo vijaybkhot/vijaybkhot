@@ -19,7 +19,7 @@ I'm a Computer Science graduate, transitioning from civil engineering to backend
 
 - 💡 I’ve built production-ready platforms like **eVoltzo**, **NexTune**, **Campus Pulse**, and **ServiceEasy**.
 - ⚡ Specializing in **GraphQL backends**, **Stripe payment workflows**, **SSR caching**, and **real-time booking engines**.
-- 🧠 Solved **430+ LeetCode** challenges (Top 1.3%) — strong foundation in algorithms and problem solving.
+- 🧠 Solved **500+ LeetCode** challenges (Top 1%) — strong foundation in algorithms and problem solving.
 - 🧰 I enjoy modular architecture, data modeling, and optimizing performance across the stack.
 - 📫 Reach me at: [vijay-khot@outlook.com](mailto:vijay-khot@outlook.com)
 
